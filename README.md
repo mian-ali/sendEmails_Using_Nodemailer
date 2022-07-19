@@ -31,9 +31,9 @@ Click here then download the .zip file. Extract the contents of the zip file, th
 change to the project directory, and:
 
 ```
-cd React-Nodemailer-Form-Email/client
+cd sendEmails_Using_Nodemailer/client
 npm install
-cd React-Nodemailer-Form-Email
+cd sendEmails_Using_Nodemailer
 npm install
 npm run dev
 
