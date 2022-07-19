@@ -42,6 +42,11 @@ npm run dev
 ## Testing the app
  You need to enable the app use your email account to email the contents of the form. Here in our app the sender's account and receiver's email id's will be the same. You need to configure your email account by setting  "ALLOW LESS SECURE APPS" to "ON".If you are using a Gmail account like me you can navigate to the link https://myaccount.google.com/lesssecureapps and do so. and do so.
 
+![googlee](https://user-images.githubusercontent.com/69896600/179836372-bb04280f-2ece-4ed6-ac2e-96b01babf0e4.png)
+
+## Third-Party Disable
+Before going ahead you must disable Gmail Third-Party security otherwise You request will not send from your MERN App to Gmail
+
 ![third-party-apps-access](https://user-images.githubusercontent.com/69896600/179834395-eabdb381-994a-4a63-b64c-7f1bca0e091b.png)
 
 
