@@ -17,7 +17,6 @@ Checkout this repo,install server and client dependancies dependencies, then sta
 as follows
 
 ```
-git clone https://github.com/DineshBabu1989/React-Nodemailer-Form-Email.git
 cd React-Nodemailer-Form-Email/client
 npm install
 cd React-Nodemailer-Form-Email
